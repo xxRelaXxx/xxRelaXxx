@@ -50,7 +50,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xxRelaXxx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg"><img src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/svgs/stats.svg" alt="" style="max-width: 100%;"></a>
 
 <br/>
 
