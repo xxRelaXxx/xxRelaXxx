@@ -14,7 +14,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
     <tr>
       <td width="50%" align="center" style="vertical-align: middle;">
         <a href="https://yorikaze.itch.io/whispering-mind">
-          <img src="banner.gif" width="100%" style="max-width: 300px; border-radius: 10px;" alt="Whispering Mind">
+          <img src="banner.gif" width="100%" style="max-width: 220px; border-radius: 10px;" alt="Whispering Mind">
         </a>
       </td>
       <td width="50%" align="center" style="vertical-align: middle;">
@@ -53,6 +53,8 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 <img src="https://github.com/xxRelaXxx/xxRelaXxx/blob/main/svgs/stats.svg" alt="Stats" style="max-width: 100%;">
 
 <img src="https://github.com/xxRelaXxx/xxRelaXxx/blob/main/svgs/langs.svg" alt="Langs" style="max-width: 100%;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Live Languages" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true)
 
