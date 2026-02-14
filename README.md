@@ -1,17 +1,10 @@
-<!-- full-row, forced-stretch GIF (GitHub README friendly) -->
-<table width="100%" style="width:100%; border-collapse:collapse; table-layout:fixed;">
-  <tr>
-    <td style="padding:0; margin:0;">
-      <img
-        src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax_c.gif"
-        alt="RelaX logo"
-        width="100%"
-        height="300"
-        style="display:block; width:100%; height:100%; object-fit:fill; max-width:none;"
-      />
-    </td>
-  </tr>
-</table>
+
+  <img
+    src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax_c.gif"
+    alt="RelaX logo"
+    width="100%"
+    height="300"
+    style="display:block; width:100%; height:100%; object-fit:fill; max-width:none;">
 
 # 💫 About Me
 Hi! I’m **Roman**, an IT & Telecommunications student focused on software development. I build small projects, experiment with ideas, and learn by doing.
