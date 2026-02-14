@@ -13,7 +13,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
     <tr>
       <td width="50%" align="center" style="vertical-align: middle;">
         <a href="https://yorikaze.itch.io/whispering-mind">
-          <img src="banner.gif" width="180px" style="max-width: 180px; border-radius: 10px;" alt="Whispering Mind">
+          <img src="banner.gif" width="250px" style="max-width: 250px; border-radius: 10px;" alt="Whispering Mind">
         </a>
       </td>
       <td width="50%" align="center" style="vertical-align: middle;">
