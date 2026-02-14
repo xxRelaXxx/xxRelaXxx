@@ -3,7 +3,7 @@
   <tr>
     <td style="padding:0; margin:0;">
       <img
-        src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
+        src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax_c.gif"
         alt="RelaX logo"
         width="120%"
         height="300"
