@@ -6,7 +6,7 @@
   src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
   alt="RelaX logo"
   width="100%"
-  height="250"
+  height="270"
 />
 
 </td>
