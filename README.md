@@ -50,11 +50,11 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <div align="center">
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg"><img src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/svgs/stats.svg" alt="" style="max-width: 100%;"></a>
+![Stats](https://github-readme-stats.vercel.app/api?username=xxRelaXxx&show_icons=true&theme=radical)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=radical)
 
 <br/>
 
