@@ -9,7 +9,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 ### 🎮 Featured Project
 <a href="https://yorikaze.itch.io/whispering-mind">
-  <img src="banner.gif" width="100%" alt="Click to Play Whispering Mind">
+  <img src="banner.gif" width="300px" alt="Click to Play Whispering Mind">
 </a>
 
 ---
