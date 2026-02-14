@@ -5,9 +5,9 @@
       <img
         src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax_c.gif"
         alt="RelaX logo"
-        width="120%"
+        width="100%"
         height="300"
-        style="display:block; width:110%; height:280px; object-fit:fill; max-width:none;"
+        style="display:block; width:100%; height:100%; object-fit:fill; max-width:none;"
       />
     </td>
   </tr>
