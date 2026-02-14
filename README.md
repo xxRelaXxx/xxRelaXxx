@@ -54,7 +54,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
