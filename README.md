@@ -50,27 +50,21 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxRelaXxx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=xxRelaXxx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ### 🏆 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=xxRelaXxx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=xxRelaXxx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=xxRelaXxx&icon=2&color=11" />
+  <img src="https://komarev.com/ghpvc/?username=xxRelaXxx&color=blueviolet&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
 </div>
