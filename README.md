@@ -3,7 +3,6 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 * 🔭 **Currently working on:** A Visual Novel named **[Whispering Mind](https://yorikaze.itch.io/whispering-mind)**.
 * 🌱 **Focus:** Full-stack web apps and Indie Game Dev.
-* 🤝 **Collaboration:** Open to collaborating on Java, React, or Game Dev projects.
 
 ---
 
