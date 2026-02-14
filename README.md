@@ -14,7 +14,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
     <tr>
       <td width="50%" align="center" style="vertical-align: middle;">
         <a href="https://yorikaze.itch.io/whispering-mind">
-          <img src="banner.gif" width="100%" style="max-width: 220px; border-radius: 10px;" alt="Whispering Mind">
+          <img src="banner.gif" width="100%" style="max-width: 180px; border-radius: 10px;" alt="Whispering Mind">
         </a>
       </td>
       <td width="50%" align="center" style="vertical-align: middle;">
@@ -57,7 +57,9 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 </div>
 
 ### 🏆 Top Contributions
+<div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=xxRelaXxx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xxRelaXxx&color=blueviolet&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
