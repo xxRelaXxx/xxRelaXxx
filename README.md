@@ -7,7 +7,7 @@
         alt="RelaX logo"
         width="120%"
         height="300"
-        style="display:block; width:100%; height:280px; object-fit:fill; max-width:none;"
+        style="display:block; width:110%; height:280px; object-fit:fill; max-width:none;"
       />
     </td>
   </tr>
