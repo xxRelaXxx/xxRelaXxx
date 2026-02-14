@@ -1,12 +1,17 @@
-<div style="width:100%; height:280px;">
-  <img
-    src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
-    alt="RelaX logo"
-    width="100%"
-    height="100%"
-    style="object-fit:fill; display:block;"
-  />
-</div>
+<table width="100%">
+<tr>
+<td>
+
+<img
+  src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
+  alt="RelaX logo"
+  width="100%"
+  height="280"
+/>
+
+</td>
+</tr>
+</table>
 
 # 💫 About Me
 Hi! I’m **Roman**, an IT & Telecommunications student focused on software development. I build small projects, experiment with ideas, and learn by doing.
