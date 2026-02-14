@@ -8,9 +8,25 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 ---
 
 ### 🎮 Featured Project
-<a href="https://yorikaze.itch.io/whispering-mind">
-  <img src="banner.gif" width="300px" alt="Click to Play Whispering Mind">
-</a>
+
+<div align="center">
+  <table width="100%" style="max-width: 600px;">
+    <tr>
+      <td width="50%" align="center" style="vertical-align: middle;">
+        <a href="https://yorikaze.itch.io/whispering-mind">
+          <img src="banner.gif" width="100%" style="max-width: 300px; border-radius: 10px;" alt="Whispering Mind">
+        </a>
+      </td>
+      <td width="50%" align="center" style="vertical-align: middle;">
+        <a href="https://yorikaze.itch.io/whispering-mind">
+          <p><strong>Whispering Mind</strong></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" width="40" alt="Pointing Left"><br>
+          <b>Click Me!</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
