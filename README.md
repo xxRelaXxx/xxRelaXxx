@@ -52,10 +52,9 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <img src="https://github.com/xxRelaXxx/xxRelaXxx/blob/main/svgs/stats.svg" alt="Stats" style="max-width: 100%;">
 
-
-
 <img src="https://github.com/xxRelaXxx/xxRelaXxx/blob/main/svgs/langs.svg" alt="Langs" style="max-width: 100%;">
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true)
 
 </div>
 
