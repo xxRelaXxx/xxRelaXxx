@@ -1,37 +1,38 @@
-<svg width="350" height="210" viewBox="0 0 350 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="200" viewBox="0 0 350 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .header { font: 600 16px 'Segoe UI', Arial; fill: #7982da; }
-    .label { font: 400 13px 'Segoe UI', Arial; fill: #a9b1d6; }
-    .value { font: 600 13px 'Segoe UI', Arial; fill: #bb9af7; }
-    .stat-row { animation: slideIn 0.8s ease-out forwards; opacity: 0; }
-    @keyframes slideIn { from { transform: translateX(-20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+    .header { font: 600 16px 'Segoe UI', Arial, sans-serif; fill: #7982da; }
+    .label { font: 400 13px 'Segoe UI', Arial, sans-serif; fill: #a9b1d6; }
+    .value { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #bb9af7; }
+    @keyframes slideIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    .row { animation: slideIn 0.5s ease-out forwards; opacity: 0; }
   </style>
 
-  <rect width="100%" height="100%" fill="#1a1b26" rx="10" />
+  <rect width="350" height="200" rx="10" fill="#1a1b26"/>
+  
   <text x="25" y="35" class="header">xxRelaXxx's GitHub Stats</text>
 
-  <g class="stat-row" style="animation-delay: 100ms" transform="translate(25, 65)">
-    <text class="label">⭐ Stars:</text>
-    <text x="280" class="value" text-anchor="end">0</text>
+  <g class="row" style="animation-delay: 100ms;">
+    <text x="25" y="70" class="label">⭐ Stars:</text>
+    <text x="325" y="70" class="value" text-anchor="end">0</text>
   </g>
 
-  <g class="stat-row" style="animation-delay: 200ms" transform="translate(25, 90)">
-    <text class="label">🍴 Forks:</text>
-    <text x="280" class="value" text-anchor="end">0</text>
+  <g class="row" style="animation-delay: 200ms;">
+    <text x="25" y="95" class="label">🍴 Forks:</text>
+    <text x="325" y="95" class="value" text-anchor="end">0</text>
   </g>
 
-  <g class="stat-row" style="animation-delay: 300ms" transform="translate(25, 115)">
-    <text class="label">✍️ All-time Contributions:</text>
-    <text x="280" class="value" text-anchor="end">0</text>
+  <g class="row" style="animation-delay: 300ms;">
+    <text x="25" y="120" class="label">✍️ All-time Contributions:</text>
+    <text x="325" y="120" class="value" text-anchor="end">0</text>
   </g>
 
-  <g class="stat-row" style="animation-delay: 400ms" transform="translate(25, 140)">
-    <text class="label">📁 Repositories Contributed:</text>
-    <text x="280" class="value" text-anchor="end">0</text>
+  <g class="row" style="animation-delay: 400ms;">
+    <text x="25" y="145" class="label">📁 Repositories Contributed:</text>
+    <text x="325" y="145" class="value" text-anchor="end">0</text>
   </g>
 
-  <g class="stat-row" style="animation-delay: 500ms" transform="translate(25, 165)">
-    <text class="label">👁️ Repository Views:</text>
-    <text x="280" class="value" text-anchor="end">0</text>
+  <g class="row" style="animation-delay: 500ms;">
+    <text x="25" y="170" class="label">👁️ Repository Views:</text>
+    <text x="325" y="170" class="value" text-anchor="end">0</text>
   </g>
 </svg>
