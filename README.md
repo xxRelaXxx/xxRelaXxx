@@ -1,3 +1,5 @@
+![Logo](img/relax.gif)
+
 # 💫 About Me
 Hi! I’m **Roman**, an IT & Telecommunications student focused on software development. I build small projects, experiment with ideas, and learn by doing.
 
