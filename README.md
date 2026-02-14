@@ -5,7 +5,7 @@
       <img
         src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
         alt="RelaX logo"
-        width="100%"
+        width="120%"
         height="300"
         style="display:block; width:100%; height:280px; object-fit:fill; max-width:none;"
       />
