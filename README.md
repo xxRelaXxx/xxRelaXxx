@@ -50,15 +50,12 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xxRelaXxx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxRelaXxx&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRelaXxx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xxRelaXxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
