@@ -1,4 +1,4 @@
-<img src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif" alt="RelaX logo" style="width: 100%; height: 400px;">
+<img src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif" alt="RelaX logo" style="width: 100%; max-height: 400px;">
 
 # 💫 About Me
 Hi! I’m **Roman**, an IT & Telecommunications student focused on software development. I build small projects, experiment with ideas, and learn by doing.
