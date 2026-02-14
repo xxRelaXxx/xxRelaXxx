@@ -1,16 +1,16 @@
-<table width="100%">
-<tr>
-<td>
-
-<img
-  src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
-  alt="RelaX logo"
-  width="100%"
-  height="270"
-/>
-
-</td>
-</tr>
+<!-- full-row, forced-stretch GIF (GitHub README friendly) -->
+<table width="100%" style="width:100%; border-collapse:collapse; table-layout:fixed;">
+  <tr>
+    <td style="padding:0; margin:0;">
+      <img
+        src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
+        alt="RelaX logo"
+        width="100%"
+        height="300"
+        style="display:block; width:100%; height:280px; object-fit:fill; max-width:none;"
+      />
+    </td>
+  </tr>
 </table>
 
 # 💫 About Me
