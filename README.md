@@ -1,12 +1,13 @@
-<img src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
+<img
+  src="https://github.com/xxRelaXxx/xxRelaXxx/raw/main/img/relax.gif"
   alt="RelaX logo"
   style="
     width: 100%;
-    height: 300px;
+    height: 280px;
     object-fit: fill;
     display: block;
-  "
->
+  ">
+
 
 
 # 💫 About Me
