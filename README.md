@@ -58,11 +58,6 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 </div>
 
-### 🏆 Top Contributions
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=xxRelaXxx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
-
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=xxRelaXxx&color=blueviolet&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
