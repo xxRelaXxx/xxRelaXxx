@@ -49,6 +49,7 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 | **Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![RenPy](https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat&logo=renpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) |
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
