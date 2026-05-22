@@ -54,8 +54,9 @@ Hi! I’m **Roman**, an IT & Telecommunications student focused on software deve
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
   ### 🌐 Connect with me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derelaxed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romabern1337@gmail.com) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)](https://yorikaze.itch.io/)
   
 </div>
-
